@@ -25,5 +25,3 @@ The efficiency of the identification can be compared by recording the blinking t
 
 
 
-
-
